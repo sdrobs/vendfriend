@@ -16,6 +16,7 @@ using System.Text.RegularExpressions;
 
 
 /*Future tasks:
+-connect error labeling json for specific error codes + messages on try/catch
 -Fix label boxes to accomodate long item names
 -finish the hotkey logic to save itemdetail page to database.
 -Add tooltips to confusing controls
