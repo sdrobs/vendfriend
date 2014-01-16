@@ -1,6 +1,6 @@
-vendfriend
+#VendFriend
 
-==========
+
 
 
 VendFriend is a market analysis software for use on Gaiaonline. A demonstration video of the software can be seen here: http://vimeo.com/73043532
