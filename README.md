@@ -3,7 +3,7 @@
 
 
 
-VendFriend is a market analysis software for Gaiaonline. A demonstration of the software can be seen at http://vimeo.com/73043532
+VendFriend is a market analysis software for Gaiaonline. It follows all Gaia Terms of Service, and in no way provides any form of scripting, botting, or automation. A demonstration of the software can be seen at http://vimeo.com/73043532
 
 Originally released in November 2012 as a paid software, Vendfriend is now 100% free to use and distribute. You can download the executable at http://bit.ly/1jbLsZ6
 
